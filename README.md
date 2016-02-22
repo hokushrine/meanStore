@@ -1,5 +1,7 @@
 # meanStore
 
+Currently has a templating engine issue.
+
 How to start:
 
 1) Start Mongod
